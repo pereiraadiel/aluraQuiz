@@ -2,6 +2,8 @@
   "name": "with-styled-components",
   "version": "1.0.0",
   "scripts": {
+    "commit": "git add . && git commit -m",
+    "push": "git push origin ",
     "dev": "next",
     "build": "next build",
     "start": "next start"
